@@ -9,5 +9,5 @@ const someLongRunningTask = () => {
   export default async () => {
     const v = await someLongRunningTask();
     console.log(v)
-    console.log("Donwwwe!");
+    console.log("Doneee!");
   };
